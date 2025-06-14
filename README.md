@@ -1,4 +1,6 @@
 # fromNandToHell
+## [Поиграть на Yandex games](https://yandex.ru/games/app/437019?draft=true&lang=ru)
+
 - 7 раз отмерь 1 раз андрей
 - не имей 100 друзей а волков андрей
 - андрея бояться - на матмех не ходить
